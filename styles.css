@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+#elements {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.element {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 5px;
+    background-color: #fff;
+    cursor: pointer;
+}
